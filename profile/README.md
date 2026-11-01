@@ -12,7 +12,9 @@ Everyone is welcome.
 ## Our church app 教會應用程式
 
 A free app for the church: the weekly bulletin, hymnals, Sabbath School, and the
-Bible in Chinese, English and Spanish. No ads, and no account needed.
+Bible in Chinese, English and Spanish. No ads, and no account needed. More languages,
+features, and expansions are planned. We hope this will eventually serve as the base app
+for many SDA churches across the world.
 
 教會免費應用程式：週刊、讚美詩、安息日學，以及中文、英文和西班牙文聖經。沒有廣告，不需註冊帳號。
 
