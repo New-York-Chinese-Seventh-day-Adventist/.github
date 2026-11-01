@@ -1,5 +1,4 @@
-# New York Chinese Seventh-day Adventist Church
-# 紐約華人基督復臨安息日會
+# New York Chinese Seventh-day Adventist Church 紐約華人基督復臨安息日會
 
 A Chinese Seventh-day Adventist church in Elmhurst, Queens, New York City.
 Everyone is welcome.
